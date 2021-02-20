@@ -3,7 +3,7 @@ Test swift 5 with API Request and Response
 
 Requirement - Xcode 12.4
 Swift - 5 and above
-Deployment Target  iOS - 14.3 
+Deployment Target  iOS - 13.0 
 
 Download the application and run the code in XCode 12.4. This will launch the application with very basic feature.
 
